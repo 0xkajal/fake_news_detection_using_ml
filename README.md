@@ -21,3 +21,4 @@ To run the Fake News Detection System locally, follow these steps:
 2. Install the required dependencies:
 ```pip install -r requirements.txt```
 
+```streamlit run fake_news_detection_sl.py```
